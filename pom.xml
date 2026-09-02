@@ -59,6 +59,17 @@
     <artifactId>langchain4j-google-ai-gemini</artifactId>
     <version>1.19.0</version>
 </dependency>
+<!-- LangChain4j OpenAI (compatible with Groq) -->
+<dependency>
+    <groupId>dev.langchain4j</groupId>
+    <artifactId>langchain4j-open-ai</artifactId>
+    <version>1.19.0</version>
+</dependency>
+<dependency>
+    <groupId>dev.langchain4j</groupId>
+    <artifactId>langchain4j-ollama</artifactId>
+    <version>1.19.0</version>
+</dependency>
 
 
 
